@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywordspec generated="20160915 12:02:31" type="library" name="CustomLibrary" format="ROBOT">
+<version></version>
+<scope>global</scope>
+<namedargs>yes</namedargs>
+<doc>Documentation for test library `CustomLibrary`.</doc>
+<kw name="Run Command">
+<arguments>
+<arg>cmd</arg>
+<arg>os_name=posix</arg>
+</arguments>
+<doc></doc>
+</kw>
+<kw name="Start Appium Server">
+<arguments>
+<arg>appium_command</arg>
+</arguments>
+<doc></doc>
+</kw>
+</keywordspec>
