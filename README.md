@@ -5,6 +5,8 @@
 1. Python 2.7 - https://www.python.org/downloads/
    * Set environment variable PYTHONPATH under 'System variables'
    * Install PIP -  http://stackoverflow.com/questions/4750806/how-do-i-install-pip-on-windows
+   ![screenshots](https://raw.githubusercontent.com/syamsasi99/vodQA_Appium_RobotFramework/blob/master/screenshots/5.PNG)
+
 1. JAVA JDK - http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
    * Set environment variable JAVA_HOME under 'System variables'
 2. ANDROID SDK - https://developer.android.com/studio/index.html
