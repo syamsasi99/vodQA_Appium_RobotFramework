@@ -19,6 +19,12 @@
 7. ANDROID SDK MANAGER - Open the command prompt run the command "android", android sdk manager will be opened
    * Download the required android API you needed to work with - https://source.android.com/source/build-numbers.html
    * Please note that Appium need a minimum api level of 17
+8.  Robot Framework and Appium Library for robot framework - https://github.com/robotframework/robotframework  ,       http://jollychang.github.io/robotframework-appiumlibrary/doc/AppiumLibrary.html
+    
+   Run the following commands  
+   * pip install robotframework==2.8.7
+   * pip install robotframework-appiumlibrary==1.3.5
+9. 
 
 
 
