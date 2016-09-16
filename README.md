@@ -11,7 +11,7 @@
    * Set environment variable ANDROID_HOME under 'System variables'
 3. Node.js - https://nodejs.org/en/download/. Download and install.
 4. Appium.exe (zip file) (for Appium Inspector) - https://bitbucket.org/appium/appium.app/downloads/
-5. Append the following string to the Path variable unser 'System variables'
+5. Append the following string to the Path variable user 'System variables'
    * %JAVA_HOME%\bin;%ANDROID_HOME%\build-tools;%ANDROID_HOME%\platforms;%ANDROID_HOME%\platform-tools;%ANDROID_HOME%\tools;C:\Program Files\nodejs;%PYTHONPATH%;%PYTHONPATH%\Scripts;
 6. Run the following commands to install appium server
    * npm install -g appium
@@ -26,6 +26,8 @@
    Note: Run 'pip list' to see the installed python packages
 9. Eclipse - https://eclipse.org/downloads/
 10. Nokia RED plugin for eclipse - https://github.com/nokia/RED/releases/tag/0.7.0
+
+## Running appium scripts in a real android device
 
 
 
