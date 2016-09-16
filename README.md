@@ -20,11 +20,12 @@
    * Download the required android API you needed to work with - https://source.android.com/source/build-numbers.html
    * Please note that Appium need a minimum api level of 17
 8.  Robot Framework and Appium Library for robot framework - https://github.com/robotframework/robotframework  ,       http://jollychang.github.io/robotframework-appiumlibrary/doc/AppiumLibrary.html
-    
    Run the following commands  
    * pip install robotframework==2.8.7
    * pip install robotframework-appiumlibrary==1.3.5
-9. 
+   Note: Run 'pip list' to see the installed python packages
+9. Eclipse - https://eclipse.org/downloads/
+10. Nokia RED plugin for eclipse - https://github.com/nokia/RED/releases/tag/0.7.0
 
 
 
