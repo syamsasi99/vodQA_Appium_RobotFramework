@@ -48,7 +48,7 @@
 4.  Run the testsuite  by any of the following methods
    * Pybot Command
    ![screenshots](https://raw.githubusercontent.com/syamsasi99/vodQA_Appium_RobotFramework/master/screenshots/7.PNG)
-   * RED plugin play button [Be in Robot perspecpective in eclipse]
+   * RED plugin play button [Be in Robot perspective in eclipse]
    ![screenshots](https://raw.githubusercontent.com/syamsasi99/vodQA_Appium_RobotFramework/master/screenshots/8.PNG)
 
 
