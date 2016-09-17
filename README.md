@@ -52,6 +52,9 @@
       ![screenshots](https://raw.githubusercontent.com/syamsasi99/vodQA_Appium_RobotFramework/master/screenshots/8.PNG)
 
 
+#Note: The sample app's source code can be found in this link https://github.com/awslabs/aws-device-farm-sample-app-for-android
+# The html report will be generated once the test executed
+
 
 
 
