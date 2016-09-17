@@ -30,7 +30,7 @@
    Run the following commands  
    * pip install robotframework==2.8.7
    * pip install robotframework-appiumlibrary==1.3.5
-   Note: Run 'pip list' to see the installed python packages
+       Note: Run 'pip list' to see the installed python packages
 9. Eclipse - https://eclipse.org/downloads/
 10. Nokia RED plugin for eclipse - https://github.com/nokia/RED/releases/tag/0.7.0
 
@@ -47,9 +47,9 @@
    ![screenshots](https://raw.githubusercontent.com/syamsasi99/vodQA_Appium_RobotFramework/master/screenshots/6.PNG)
 4.  Run the testsuite  by any of the following methods
    * Pybot Command
-   ![screenshots](https://raw.githubusercontent.com/syamsasi99/vodQA_Appium_RobotFramework/master/screenshots/7.PNG)
+      ![screenshots](https://raw.githubusercontent.com/syamsasi99/vodQA_Appium_RobotFramework/master/screenshots/7.PNG)
    * RED plugin play button [Be in Robot perspective in eclipse]
-   ![screenshots](https://raw.githubusercontent.com/syamsasi99/vodQA_Appium_RobotFramework/master/screenshots/8.PNG)
+      ![screenshots](https://raw.githubusercontent.com/syamsasi99/vodQA_Appium_RobotFramework/master/screenshots/8.PNG)
 
 
 
