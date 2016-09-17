@@ -45,7 +45,12 @@
    * ${udid}    - run adb devices to get the udid of your phone
    * ${phone_name}  - Your Phone's name. Preferrably without contain any spaces and special characters
    ![screenshots](https://raw.githubusercontent.com/syamsasi99/vodQA_Appium_RobotFramework/master/screenshots/6.PNG)
-4.  
+4.  Run the testsuite  by any of the following methods
+   * Pybot Command
+   ![screenshots](https://raw.githubusercontent.com/syamsasi99/vodQA_Appium_RobotFramework/master/screenshots/7.PNG)
+   * RED plugin play button [Be in Robot perspecpective in eclipse]
+   ![screenshots](https://raw.githubusercontent.com/syamsasi99/vodQA_Appium_RobotFramework/master/screenshots/8.PNG)
+
 
 
 
