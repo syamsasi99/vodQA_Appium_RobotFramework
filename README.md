@@ -16,7 +16,7 @@
    ![screenshots](https://raw.githubusercontent.com/syamsasi99/vodQA_Appium_RobotFramework/master/screenshots/2.PNG)
 3. Node.js - https://nodejs.org/en/download/. Download and install.
 4. Appium.exe (zip file) (for Appium Inspector) - https://bitbucket.org/appium/appium.app/downloads/
-5. Append the following string to the Path variable user 'System variables'
+5. Append the following string to the Path variable under 'System variables'
    * %JAVA_HOME%\bin;%ANDROID_HOME%\build-tools;%ANDROID_HOME%\platforms;%ANDROID_HOME%\platform-tools;%ANDROID_HOME%\tools;C:\Program Files\nodejs;%PYTHONPATH%;%PYTHONPATH%\Scripts;
    ![screenshots](https://raw.githubusercontent.com/syamsasi99/vodQA_Appium_RobotFramework/master/screenshots/3.PNG)
 6. Run the following commands to install appium server
