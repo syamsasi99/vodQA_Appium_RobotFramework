@@ -41,6 +41,8 @@
     
 
 ![screenshots](https://raw.githubusercontent.com/syamsasi99/vodQA_Appium_RobotFramework/master/screenshots/git.gif)
+
+
 3. Edit the MFTS.robot file (My First Test Suite) and edit the following fields
    * ${platform_version}    - Check your android version
    * ${apk_path}    - absolute path of apk file. The apk file is included in the project[app.apk]
