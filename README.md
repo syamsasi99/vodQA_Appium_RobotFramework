@@ -37,7 +37,7 @@
 ## Running appium scripts in a real android device
 1. Connect your android phone to PC using usb cable in debugging mode - https://www.kingoapp.com/root-tutorials/how-to-enable-usb-debugging-mode-on-android.htm
 2. Import the repository to eclipse
-  ![screenshots](https://raw.githubusercontent.com/syamsasi99/vodQA_Appium_RobotFramework/master/screenshots/git.gif)
+       ![screenshots](https://raw.githubusercontent.com/syamsasi99/vodQA_Appium_RobotFramework/master/screenshots/git.gif)
 
 
 
