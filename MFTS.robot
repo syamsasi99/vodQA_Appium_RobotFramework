@@ -10,10 +10,11 @@ Library    CustomLibrary.py
 *** Variables ***
 
 ${platform_version}    "6.0.1"
-${platform_name}    "Android"    
-${apk_path}    "C:/Users/Keng Hun/workspace/Test/app.apk"
-${udid}    "0515444646413736"
+${apk_path}    "C:/Users/syam/workspace/Test/app.apk"
+${udid}    "123456789"
 ${phone_name}  "Note5"
+
+${platform_name}    "Android"    
 
 ${appium_command}    appium --command-timeout "7200" --debug-log-spacing --platform-version ${platform_version} --platform-name ${platform_name} --app ${apk_path} --udid ${udid} --device-name ${phone_name} --launch-timeout "90000" 
 ${menu_button}    //android.widget.ImageButton
