@@ -10,8 +10,8 @@ Library    CustomLibrary.py
 *** Variables ***
 
 ${platform_version}    "6.0.1"
-${apk_path}    "C:/Users/syam/workspace/Test/app.apk"
-${udid}    "123456789"
+${apk_path}    "${EXECDIR}/app.apk"
+${udid}    "0515444646413736"
 ${phone_name}  "Note5"
 
 ${platform_name}    "Android"    
@@ -33,6 +33,7 @@ ${text_data}    vodQA is awesome!
 *** Test Cases ***
 
 Verify TextField
+    Print  ${appium_command}
     ${source}=   Get Source
     Log   ${source}
     
